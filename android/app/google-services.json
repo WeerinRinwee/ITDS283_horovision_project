@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456501963049",
+    "firebase_url": "https://horovision-itds283-default-rtdb.firebaseio.com",
+    "project_id": "horovision-itds283",
+    "storage_bucket": "horovision-itds283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456501963049:android:18e7c7d589744880ee6f38",
+        "android_client_info": {
+          "package_name": "com.project.horovision_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456501963049-namqoe32dlk4nuhcuoatvdkdcshtevso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RqVeN_QlV0wJ6ub-7Pi6AL0_xFeXuK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456501963049-namqoe32dlk4nuhcuoatvdkdcshtevso.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456501963049-86h58b2hrjk8mh0luoshe755rgus27pf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.horovision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
